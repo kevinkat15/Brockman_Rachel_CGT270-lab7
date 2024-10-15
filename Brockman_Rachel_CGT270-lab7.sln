@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Brockman_Rachel_CGT270-lab7", "Brockman_Rachel_CGT270-lab7.vcxproj", "{DACFFE9B-77BF-469C-B00E-0D844B5978E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACFFE9B-77BF-469C-B00E-0D844B5978E6}.Debug|x64.ActiveCfg = Debug|x64
+		{DACFFE9B-77BF-469C-B00E-0D844B5978E6}.Debug|x64.Build.0 = Debug|x64
+		{DACFFE9B-77BF-469C-B00E-0D844B5978E6}.Debug|x86.ActiveCfg = Debug|Win32
+		{DACFFE9B-77BF-469C-B00E-0D844B5978E6}.Debug|x86.Build.0 = Debug|Win32
+		{DACFFE9B-77BF-469C-B00E-0D844B5978E6}.Release|x64.ActiveCfg = Release|x64
+		{DACFFE9B-77BF-469C-B00E-0D844B5978E6}.Release|x64.Build.0 = Release|x64
+		{DACFFE9B-77BF-469C-B00E-0D844B5978E6}.Release|x86.ActiveCfg = Release|Win32
+		{DACFFE9B-77BF-469C-B00E-0D844B5978E6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3BF3BC9-AF9E-4A21-8F3C-6722B802351A}
+	EndGlobalSection
+EndGlobal
